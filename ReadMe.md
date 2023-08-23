@@ -1,5 +1,5 @@
 # 💫Hello There💫 
-My name is Eyerusalem Belachew and I am a student currently pursuing my degree in Computer science at American College of Technology.I am passionate about programming and technology.I love to learn new things and challenge myself to create innovative solutions to problems.In my free time, I enjoy working on personal coding projects and participating in coding competitions.<br>Feel free to check my projects here in github
+My name is Eyerusalem Belachew and I am a fresh graduate in Computer Science at American College of Technology. I am passionate about programming and technology. I love to learn new things and challenge myself to create innovative solutions to problems.In my free time, I enjoy working on personal coding projects and participating in coding competitions.<br>Feel free to check my projects here on GitHub
 
 
 ## 🌐 Socials:
